@@ -1,5 +1,5 @@
 # Srivari-calendar
-This project takes sends out notifications as reminders to subscribers on specific auspicious days in a month that is pre-stored in a static file. This information is used by people to perform special religious activities on those days.
+This project sends out notifications as reminders to subscribers on specific auspicious days in a month that is pre-stored in a static file. This information is used by people to perform special religious activities on those days.
 
 ## Table of Contents
 * [General Info](#general-information)
