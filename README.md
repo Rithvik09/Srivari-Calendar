@@ -1,6 +1,8 @@
 # Srivari-calendar
 This project is to create an API for Alexa to check on specific auspicious days in a month that is pre-stored in a static file. This information is used by people to perform special religious activities on those days.
 
+Alexa Skill downloard link : https://www.amazon.com/dp/B09MP9WWKW
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
